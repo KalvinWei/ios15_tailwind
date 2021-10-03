@@ -27,4 +27,7 @@ This repo followed [Rebuilding iOS 15 with Tailwind CSS](https://www.youtube.com
 - Arbitrary value support
   We can use any pixel values for padding, margin and other CSS properties with `m-[10px]` rather than `m-2` or `m-3` which are *8 pixels* and *12 pixels* but *10 pixels* that we want. 
 - `inset` can be used to stretch elements to the size of its parent, if the parent has determined dimensions. For instance, `inset-x-0` means stretching the element so that it's horizontally filling its parent element.
+- A shortcut to write opacity by using `bg-white/50`, which means **background color is white with 50% opacity**
+- When we give an element a `transform scale-{size}`, we can dictate the transform origin by `origin-{top|bottom|right|left}`.
+- 
 
