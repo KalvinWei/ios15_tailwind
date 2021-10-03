@@ -1,0 +1,2 @@
+# Don't have an iPhone 13 ? How about making it with Tailwind ourselves?
+This repo followed [Rebuilding iOS 15 with Tailwind CSS](https://www.youtube.com/watch?v=eSzNNYk7nVU&list=WL&index=1&t=144s) from [Tailwind Lab](https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ).
